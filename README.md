@@ -6,7 +6,7 @@ I'm interested in **software development, AI, and technology**, and I enjoy lear
 
 Currently, I'm improving my programming skills and working on personal projects to keep learning and growing every day.
 
-I'm looking for an **internship opportunity** to gain real-world experience and grow — [Resume](./assets/CV.pdf)
+I'm looking for an **internship opportunity** to gain real-world experience and grow. [Resume](./assets/CV.pdf)
 
 ### Tech Stack
 
