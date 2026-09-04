@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**pphiraphat/pphiraphat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Phiraphat**, an Information Engineering student based in **Bangkok, Thailand**.
 
-Here are some ideas to get you started:
+I'm interested in **software development, AI, and technology**, and I enjoy learning by building projects and exploring new ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm improving my programming skills and working on personal projects to keep learning and growing every day.
+
+I'm looking for an **internship opportunity** to gain real-world experience and grow.
+
+### Tech Stack
+
+Python · C/C++ · JavaScript · PHP · HTML/CSS · Node.js · Vue.js · Flask · OpenCV · Git · Figma · Arduino · Raspberry Pi
+
