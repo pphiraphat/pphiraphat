@@ -8,6 +8,8 @@ Currently, I'm improving my programming skills and working on personal projects 
 
 I'm looking for an **internship opportunity** to gain real-world experience and grow.
 
+[View my Resume](./assets/CV.pdf)
+
 ### Tech Stack
 
 Python · C/C++ · JavaScript · PHP · HTML/CSS · Node.js · Vue.js · Flask · OpenCV · Git · Figma · Arduino · Raspberry Pi
