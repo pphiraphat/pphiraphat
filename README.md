@@ -1,7 +1,5 @@
 ## Hey everyone! 👋 My name is Phiraphat Boonsodakorn
 
-## Hey everyone! 👋 I'm Phiraphat Boonsodakorn
-
 I'm an Information Engineering student based in **Bangkok, Thailand**.<br>
 I'm interested in **software development, AI, and technology**, and I enjoy learning by building projects and exploring new ideas.<br>
 Currently, I'm focused on improving my programming skills, strengthening my fundamentals, and building personal projects.<br>
