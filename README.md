@@ -11,7 +11,6 @@ I build across **machine learning, IoT/embedded systems and web development**.
 [LinkedIn](LINKEDIN_URL) · [Resume](RESUME_URL) · [pphiraphat.b@gmail.com](mailto:pphiraphat.b@gmail.com)
 
 ---
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -26,7 +25,6 @@ I build across **machine learning, IoT/embedded systems and web development**.
     src="https://raw.githubusercontent.com/pphiraphat/pphiraphat/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
 ## 🛠️ Tech Stack
 
 **Languages**
