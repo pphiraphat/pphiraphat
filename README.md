@@ -42,7 +42,3 @@ I build across **machine learning, IoT/embedded systems and web development**.
 
 - 🌐 **IoT Department Website** (Dec 2025 – Mar 2026)<br>
   Co-designed the UI in Figma and built the responsive About page in Vue.js/Nuxt.
-
-<br>
-
-<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/pphiraphat/pphiraphat/output/github-contribution-grid-snake-dark.svg" />
