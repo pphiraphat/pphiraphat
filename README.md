@@ -1,6 +1,3 @@
-<!-- DRAFT for github.com/pphiraphat/pphiraphat (README.md)
-     Before pasting: replace LINKEDIN_URL and RESUME_URL (use a resume version WITHOUT phone number). -->
-
 # Hi, I'm Phiraphat Boonsodakorn 👋
 
 IoT and Information Engineering student at **KMITL** (B.Eng., expected May 2028), based in Bangkok.
@@ -8,9 +5,10 @@ I build across **machine learning, IoT/embedded systems and web development**.
 
 🔎 **Looking for a Summer 2027 internship in Software / AI Engineering.**
 
-[LinkedIn](LINKEDIN_URL) · [Resume](RESUME_URL) · [pphiraphat.b@gmail.com](mailto:pphiraphat.b@gmail.com)
+[LinkedIn]([LINKEDIN_URL](https://www.linkedin.com/in/phiraphat-boonsodakorn-49b6a8438/)) · [Resume](https://drive.google.com/file/d/1qWuIuvPPASAfaovG2dm6UbhJw63ATaCm/view?usp=sharing) · [pphiraphat.b@gmail.com](mailto:pphiraphat.b@gmail.com)
 
 ---
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -67,8 +65,6 @@ I build across **machine learning, IoT/embedded systems and web development**.
 ---
 
 ## 🚀 Projects
-
-> Most of my projects are team projects hosted in private repositories, so I describe my own part of each one here.
 
 ### 🧴 AcneCare: Browser-based Acne Detection · Oct 2026
 `YOLO26s` `Python` `Roboflow` · team app: `Next.js` `ONNX Runtime Web`
