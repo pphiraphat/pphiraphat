@@ -5,7 +5,7 @@ I build across **machine learning, IoT/embedded systems and web development**.
 
 🔎 **Looking for a 2027 internship in Software / AI Engineering.**
 
-[LinkedIn](https://www.linkedin.com/in/phiraphat-boonsodakorn-49b6a8438/) · [Resume](https://drive.google.com/file/d/1qWuIuvPPASAfaovG2dm6UbhJw63ATaCm/view?usp=sharing) · [pphiraphat.b@gmail.com](mailto:pphiraphat.b@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/phiraphat-boonsodakorn/) · [Resume](https://drive.google.com/file/d/1Sd0kGGeTK8BlizN9uILHxs5thotPaZYE/view?usp=sharing) · [pphiraphat.b@gmail.com](mailto:pphiraphat.b@gmail.com)
 
 ## 🛠️ Tech Stack
 
